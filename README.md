@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Onkar Dighe</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+https://github-profile-trophy.vercel.app/?username=onkardighe&row=2
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkardighe&theme=darkhub&no-bg=true" alt="onkardighe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkardighe&row=1&theme=darkhub&no-bg=true" alt="onkardighe" /></a> </p>
 
 
 
@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkardighe&show_icons=true&locale=en&theme=radical" alt="onkardighe" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkardighe&show_icons=true&locale=en&layout=compact&theme=radical" alt="onkardighe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkardighe&show_icons=true&locale=en&layout=compact&theme=radical" alt="onkardighe" /></p>
 
 
 
