@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkardighe&row=1&column=7&theme=darkhub&no-bg=true" alt="onkardighe" /></a> </p><br><br>
+<p align="center"> <a href="https://github.com/onkardighe"><img src="https://github-profile-trophy.vercel.app/?username=onkardighe&row=1&column=7&theme=darkhub&no-bg=true" alt="onkardighe" /></a> </p><br><br>
 
 
 
@@ -13,17 +13,17 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkardighe&show_icons=true&locale=en&theme=radical" alt="onkardighe" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkardighe&show_icons=true&locale=en&layout=compact&theme=radical" alt="onkardighe" /></p><br><br>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkardighe&show_icons=true&locale=en&layout=compact&theme=radical" alt="onkardighe" target="https://github.com/onkardighe"/></p><br><br>
 
 
 
 <h3 align="center">Social </h3>
 <p align="center">
 <a href="https://linkedin.com/in/onkardighe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkardighe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/onkardighe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="onkardighe" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/onkardighe" target="blank"><img align="center" src="assets/img/codechef" alt="onkardighe" height="30" width="40" /></a>
 </p>
 
-<p align="center"><a href="onkardigheofficial@gmail.com">onkardigheofficial@gmail.com</a></p>
+<p align="center">onkardigheofficial@gmail.com</p>
 
 
 
