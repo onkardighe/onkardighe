@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋, I'm Onkar Dighe</h1>
-<h3 align="center">A PASSIONATE DEVELOPER FROM INDIA</h3>
 
 
-<p align="center"> <a href="https://github.com/onkardighe"><img src="https://github-profile-trophy.vercel.app/?username=onkardighe&row=1&column=7&theme=darkhub&no-bg=true" alt="onkardighe" /></a> </p><br><br>
+
 
 
 
