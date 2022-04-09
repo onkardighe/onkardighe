@@ -27,5 +27,5 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=onkardighe&label=PROFILE+VIEWS&color=ff69b4&style=flat" alt="onkardighe" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=onkardighe&label=  VISITORS  &color=ff69b4&style=flat" alt="onkardighe" /> </p>
 
