@@ -1,4 +1,26 @@
-<h1 align="center">Hey 👋, I'm Onkar Dighe</h1>
+```
+public class MyInfo {
+    public static String getName() { return "Elroy Kanye"; }
+
+    public static Integer getAge() { return 21; }
+
+    public static String getEmail() { return "elroykdev@gmail.com"; }
+    
+    public static String[] getOccupation() {
+        return new String[] {"Developer", "Designer", "Engineer"};
+    }
+
+    public static String getPronouns() { return "He/Him"; }
+
+    public static Map<String, String> getSocials() {
+        return Map.of(
+            "GitHub", "@elroykanye",
+            "LinkedIn", "https://linkedin.com/in/elroykanye",
+            "Twitter", "https://twitter.com/elroykanye"
+        );
+    }
+}
+```
 
 
 
