@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/onkardighe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkardighe" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/onkardighe" target="blank"><img align="center" src="assets/img/codechef.png" alt="onkardighe" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/onkardighe" target="blank"><img align="center" src="assets/img/codechef.png" alt="onkardighe" height="30" width="40" /></a> -->
 </p>
 <p align="center">onkardigheofficial@gmail.com</p>
 
