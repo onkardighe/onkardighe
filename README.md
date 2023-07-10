@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Onkar Dighe here 👋 </h1>
-<h3 align="center">A PASSIONATE DEVELOPER FROM INDIA </h3>
+<h1 align="center">Hey, Onkar Dighe here <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> </h1>
+<h3 align="center"> I like web development <img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="36" height="36" /> and deep learning <img  align=center src="https://user-images.githubusercontent.com/26017543/213809364-ed620f4b-dff2-4fef-9221-b831eb6a9502.png" alt="Brain" width="36" height="36" /> <img align=center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" width="36" height="36"/> </h3>
 
 
 <p align="center"> 
@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://github.com/onkardighe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
-<a href="https://github.com/onkardighe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Js" width="40" height="40"/> </a> 
-<a href="https://github.com/onkardighe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> </a> 
+<a href="https://github.com/onkardighe" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Js" width="40" height="40"/> </a> 
+<a href="https://github.com/onkardighe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="55"/> </a> 
 <a href="https://github.com/onkardighe" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node Js" /> </a> 
-<a href="https://github.com/onkardighe" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://github.com/onkardighe" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://github.com/onkardighe" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://github.com/onkardighe" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://github.com/onkardighe" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
